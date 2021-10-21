@@ -1,0 +1,2 @@
+# GitMavenProject
+new test project
